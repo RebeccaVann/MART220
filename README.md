@@ -1,2 +1,2 @@
 # MART220
- Homework for Creative COding II
+ Homework for Creative Coding II
